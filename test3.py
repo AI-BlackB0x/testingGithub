@@ -1,4 +1,3 @@
 #!/bin/python
 
-prin("111111")
-
+print("111111")
